@@ -130,3 +130,6 @@ dmypy.json
 
 #datasets
 data/
+
+data_lists/
+lightning_models/
